@@ -1,1 +1,4 @@
+XINPUT1_3.dll
+X3DAudio1_7.dll
+XAPOFX1_5.dll
 
