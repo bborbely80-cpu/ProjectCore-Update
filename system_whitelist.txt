@@ -1,1 +1,11 @@
-
+C:\WINDOWS\System32\WLDAP32.dll
+C:\WINDOWS\System32\Normaliz.dll
+C:\WINDOWS\SYSTEM32\DSOUND.dll
+C:\WINDOWS\SYSTEM32\OPENGL32.dll
+C:\WINDOWS\SYSTEM32\HID.DLL
+C:\WINDOWS\SYSTEM32\GLU32.dll
+C:\WINDOWS\SYSTEM32\dbgcore.DLL
+C:\WINDOWS\system32\uxtheme.dll
+C:\WINDOWS\system32\nlansp_c.dll
+C:\WINDOWS\system32\wshbth.dll
+C:\WINDOWS\system32\explorerframe.dll
