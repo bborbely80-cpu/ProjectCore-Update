@@ -1,4 +1,13 @@
 XINPUT1_3.dll
 X3DAudio1_7.dll
 XAPOFX1_5.dll
-
+MSVCP140.dll
+VCRUNTIME140.dll
+GFSDK_Aftermath_Lib.x64.dll
+GfeSDK.dll
+PxFoundation_x64.dll
+PhysX3Common_x64.dll
+APEXFramework_x64.dll
+APEX_Legacy_x64.dll
+APEX_Clothing_x64.dll
+PhysX3Cooking_x64.dll
