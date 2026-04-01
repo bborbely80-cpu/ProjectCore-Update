@@ -11,3 +11,8 @@ APEXFramework_x64.dll
 APEX_Legacy_x64.dll
 APEX_Clothing_x64.dll
 PhysX3Cooking_x64.dll
+PxPvdSDK_x64.dll
+PhysX3_x64.dll
+NvCloth_x64.dll
+discord-rpc.dll
+oo2core_5_win64.dll
