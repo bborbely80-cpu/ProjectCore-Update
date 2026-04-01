@@ -16,3 +16,7 @@ PhysX3_x64.dll
 NvCloth_x64.dll
 discord-rpc.dll
 oo2core_5_win64.dll
+libogg_64.dll
+libvorbis_64.dll
+libvorbisfile_64.dll
+XAudio2_7.dll
